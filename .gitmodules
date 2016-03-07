@@ -1,0 +1,3 @@
+[submodule "SubModuleSlave"]
+	path = SubModuleSlave
+	url = https://github.com/aTakumiOe/SubModuleSlave.git
